@@ -1,0 +1,1469 @@
+/*1180 - 1229*/
+@media screen and (max-width: 1229px) {
+    .container {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+/*1174 - 1179*/
+@media screen and (max-width: 1179px) {
+    .main-text {
+        margin-right: 30px;
+    }
+
+    .biography-image {
+        margin-right: 30px;
+    }
+
+    .conclusion-left {
+        padding-right: 20px;
+    }
+
+    .example-text {
+        margin-right: 30px;
+    }
+
+    .symbol-image {
+        margin-right: 30px;
+    }
+
+    .explanation-text {
+        margin-right: 30px;
+    }
+
+    .power-images {
+        margin-right: 30px;
+    }
+
+    .blue-ring-info {
+        margin-right: 30px;
+    }
+
+    .pyramid-connection-images {
+        margin-right: 30px;
+    }
+
+    .pyramid-facts-info {
+        margin-right: 30px;
+    }
+
+    .planet-image {
+        margin-right: 30px;
+    }
+}
+
+/*1144 - 1173*/
+@media screen and (max-width: 1173px) {
+    .pyramid-connection-info {
+        grid-row-gap: 15px;
+    }
+}
+
+/*1135 - 1143*/
+@media screen and (max-width: 1143px) {
+    .biography-fact {
+        margin-bottom: 15px;
+    }
+
+    .help-title {
+        font-size: 31px;
+    }
+}
+
+/*1117 - 1134*/
+@media screen and (max-width: 1134px) {
+    .pyramid-connection-info {
+        grid-row-gap: 5px;
+    }
+
+    .pyramid-facts-info {
+        grid-row-gap: 10px;
+    }
+
+    .planet-info {
+        grid-row-gap: 10px;
+    }
+}
+
+/*1091 - 1116*/
+@media screen and (max-width: 1116px) {
+    .explanation-text-title {
+        margin-bottom: 10px;
+    }
+
+    .explanation-text-info {
+        margin-bottom: 20px;
+    }
+
+    .example-text-title {
+        font-size: 31px;
+    }
+
+    .pyramid-facts-info-text {
+        line-height: 1.4;
+    }
+
+    .planet-info-text {
+        line-height: 1.4;
+    }
+
+    .help-title {
+        font-size: 30px;
+    }
+
+}
+
+/*1025 - 1090*/
+@media screen and (max-width: 1090px) {
+    .example-text-title {
+        font-size: 25px;
+        margin-bottom: 50px;
+    }
+
+    .help-title {
+        font-size: 25px;
+    }
+}
+
+/*1000 - 1024*/
+@media screen and (max-width: 1024px) {
+    .biography-description {
+        max-width: 460px;
+    }
+
+    .symbol-info {
+        max-width: 460px;
+    }
+
+    .symbol-info-title {
+        margin-bottom: 20px;
+    }
+
+    .symbol-info-text-ring {
+        margin-top: 20px;
+    }
+
+    .symbol-info-text {
+        margin-top: 10px;
+        line-height: 1.4;
+    }
+
+    .symbol-info-form {
+        margin-top: 10px;
+    }
+
+    .symbol-info-form-text {
+        line-height: 1.4;
+    }
+
+    .explanation-text {
+        max-width: 460px;
+    }
+
+    .explanation-text-title {
+        line-height: 1.4;
+    }
+
+    .explanation-text-info {
+        line-height: 1.4;
+    }
+
+    .power-info {
+        max-width: 440px;
+    }
+
+    .power-info-text {
+        line-height: 1.4;
+        margin-top: 10px;
+    }
+}
+
+/*801 - 999*/
+@media screen and (max-width: 999px) {
+
+    .header__image-first {
+        top: 0;
+        left: 250px;
+        display: none;
+    }
+
+    .header__image-second {
+        top: -30px;
+        right: 25px;
+        display: none;
+    }
+
+    .footer__address {
+        max-width: 142px;
+        text-align: center;
+    }
+
+
+    .header__vector {
+        left: -15px;
+    }
+
+    .info-title {
+        font-size: 25px;
+    }
+
+    .main__container {
+        display: grid;
+        grid-template-rows: max-content 1fr;
+        grid-row-gap: 30px;
+    }
+
+    .main-text {
+        max-width: 100%;
+        margin-right: 0;
+    }
+
+    .main__text-description {
+        margin-bottom: 50px;
+    }
+
+    .main-images {
+        max-width: 100%;
+        margin: 0 auto;
+        grid-template-rows: repeat(2, auto);
+    }
+
+    .biography__container {
+        display: grid;
+        grid-row-gap: 30px;
+        justify-content: center;
+        padding-bottom: 40px;
+
+    }
+
+    .biography-image {
+        margin: 0 auto;
+    }
+
+    .biography-description {
+        max-width: 100%;
+    }
+
+    .example {
+        padding: 50px 0 50px 0;
+    }
+
+    .example-result {
+        display: grid;
+        grid-row-gap: 30px;
+        justify-content: center;
+    }
+
+    .example-text {
+        max-width: 100%;
+        margin-right: 0;
+    }
+
+    .example-text-title {
+        display: grid;
+        justify-content: center;
+
+    }
+
+    .example-text-title p {
+        justify-self: center;
+    }
+
+    .example-main-image {
+        margin: 0 auto;
+    }
+
+    .symbols {
+        padding: 50px 0 50px 0;
+    }
+
+    .symbol {
+        display: grid;
+        grid-row-gap: 30px;
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+
+    .symbol-image {
+        margin: 0 auto;
+    }
+
+    .symbol-info {
+        max-width: 100%;
+    }
+
+    .symbol-info-form-text {
+        max-width: 100%;
+    }
+
+    .explanation {
+        display: grid;
+        grid-row-gap: 30px;
+        justify-content: center;
+    }
+
+    .explanation-text {
+        max-width: 100%;
+    }
+
+    .explanation-images {
+        margin: 0 auto;
+    }
+
+    .crystal {
+        padding-bottom: 50px;
+    }
+
+    .power {
+        padding-bottom: 50px;
+        display: grid;
+        grid-row-gap: 30px;
+        justify-content: center;
+    }
+
+    .power-images {
+        margin: 0 auto;
+    }
+
+    .power-info {
+        max-width: 100%;
+    }
+
+    .power-info-title {
+        display: flex;
+    }
+
+    .help-title {
+        font-size: 20px;
+    }
+
+    .blue-ring {
+        display: grid;
+        grid-row-gap: 30px;
+        justify-content: center;
+    }
+
+    .blue-ring-info {
+        max-width: 100%;
+        margin-right: 0;
+        order: 2;
+    }
+
+    .blue-ring-image {
+        margin: 0 auto;
+        order: 1;
+    }
+
+    .pyramid {
+        padding-bottom: 50px;
+    }
+
+    .pyramid-connection {
+        display: grid;
+        grid-row-gap: 30px;
+        justify-content: center;
+        padding-bottom: 50px;
+    }
+
+    .pyramid-connection-images {
+        margin: 0 auto;
+    }
+
+    .pyramid-connection-info {
+        max-width: 100%;
+    }
+
+    .pyramid-facts {
+        display: grid;
+        grid-row-gap: 30px;
+        justify-content: center;
+    }
+
+    .pyramid-facts-info {
+        max-width: 100%;
+        order: 2;
+        margin-right: 0;
+    }
+
+    .pyramid-facts-images {
+        margin: 0 auto;
+        order: 1;
+    }
+
+    .planet {
+        padding-bottom: 50px;
+    }
+
+    .planet-details {
+        display: grid;
+        grid-row-gap: 30px;
+        justify-content: center;
+    }
+
+    .planet-image {
+        margin: 0 auto;
+    }
+
+    .planet-info {
+        max-width: 100%;
+    }
+
+    .help {
+        padding: 50px 0 50px 0;
+    }
+
+    .footer {
+        padding: 50px 0 50px 0;
+    }
+}
+
+/*701 - 800*/
+@media screen and (max-width: 800px) {
+    .header__image-first {
+        left: 215px;
+    }
+
+    .info-title {
+        font-size: 22px;
+    }
+}
+
+/*649 - 700*/
+@media screen and (max-width: 700px) {
+    .header__image-first {
+        left: 175px;
+    }
+
+    .header__image-second {
+        right: 0;
+    }
+
+    .info-title {
+        font-size: 20px;
+    }
+
+    .info-text {
+        font-size: 18px;
+    }
+
+    .right {
+        width: 58px;
+        height: 58px;
+    }
+
+    .left {
+        width: 58px;
+        height: 58px;
+    }
+
+    button svg {
+        fill: black;
+        width: 53px;
+        height: 53px;
+    }
+
+    .example-work-images {
+        display: grid;
+        grid-template-rows: 1fr 1fr 1fr;
+        grid-template-columns: 364px;
+        grid-row-gap: 10px;
+        position: relative;
+        max-width: 100%;
+        justify-content: center;
+    }
+
+    .power-info-title {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+/*426 - 648*/
+@media screen and (max-width: 648px) {
+    body {
+        padding: 0;
+    }
+
+    .header {
+        padding: 30px 0;
+    }
+
+    .container {
+        max-width: 648px;
+        margin: 0 auto;
+    }
+
+    .header__container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .header__phone {
+        margin-right: 5px;
+    }
+
+    .header__phone svg {
+        margin-right: 0;
+    }
+
+    .header__phone span {
+        font-size: 14px;
+    }
+
+
+    .header__image-first {
+        left: 10px;
+    }
+
+    .header__image-second {
+        right: 60px;
+        top: 55px;
+    }
+
+    .info {
+        padding: 50px 0;
+    }
+
+    .info-title {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    .info-text {
+        font-size: 13px;
+        margin-bottom: 20px;
+    }
+
+    .info-container {
+        grid-template-columns: [ col1 ] 1fr [ col2 ] 1fr;
+        grid-row-gap: 15px;
+        grid-column-gap: 0;
+    }
+
+    .info-slider {
+        order: 1;
+        grid-column: col1/col3;
+        height: 500px;
+    }
+
+    .left {
+        order: 2;
+        margin: 0 auto;
+    }
+
+    .right {
+        order: 3;
+        margin: 0 auto;
+    }
+
+
+    .main {
+        padding-bottom: 25px;
+    }
+
+    .main__text-title h2 {
+        font-size: 30px;
+    }
+
+    .main-small-images {
+        grid-template-rows: auto;
+    }
+
+    .example {
+        padding: 25px 0;
+    }
+
+    .example-result {
+        grid-row-gap: 10px;
+        max-width: 618px;
+        margin-bottom: 30px;
+    }
+
+    .example-text {
+        max-width: 618px;
+        justify-content: center;
+    }
+
+    .example-text-title {
+        margin-bottom: 20px;
+    }
+
+    .example-text-title p {
+        font-size: 20px;
+    }
+
+    .example-main-image {
+        max-width: 396px;
+        height: auto;
+        position: relative;
+    }
+
+    .example-main-image img {
+        max-width: 396px;
+        height: auto;
+    }
+
+    .example-work-images {
+        grid-template-columns: auto;
+    }
+
+    .symbols {
+        padding: 25px 0;
+    }
+
+    .symbol {
+        margin-bottom: 25px;
+    }
+
+    .symbol-image {
+        position: relative;
+        max-width: 396px;
+    }
+
+    .symbol-info-title {
+        padding: 0;
+        margin-bottom: 10px;
+    }
+
+    .symbol-info-title h2 {
+        font-size: 28px;
+    }
+
+    .symbol-info-text-ring {
+        margin-top: 10px;
+    }
+
+    .explanation-images {
+        grid-column-gap: 10px;
+        grid-row-gap: 20px;
+    }
+
+    .explanation-images .lines {
+        display: none;
+    }
+
+    .conclusion {
+        flex-direction: column;
+    }
+
+    .conclusion-left {
+        padding-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .conclusion-right {
+        max-width: 100%;
+    }
+
+    .crystal {
+        padding-bottom: 25px;
+    }
+
+    .blue-ring {
+        grid-row-gap: 15px;
+    }
+
+    .blue-ring-image {
+        max-width: 396px;
+        position: relative;
+        margin: 0 auto;
+    }
+
+    .blue-ring-img {
+        max-width: 100%;
+    }
+
+    .blue-ring-image .lines2 {
+        display: none;
+    }
+
+    .help-title {
+        font-size: 24px;
+    }
+
+    .pyramid-connection {
+        padding-bottom: 20px;
+    }
+
+    .pyramid-connection-images {
+        position: relative;
+        max-width: 396px;
+        height: auto;
+    }
+
+    .pyramid-img {
+        max-width: 100%;
+    }
+
+    .symbol-decor2 {
+        display: none;
+    }
+
+    .pyramid-facts {
+        grid-row-gap: 15px;
+    }
+
+    .pyramid-facts-images {
+        position: relative;
+        max-width: 396px;
+        height: auto;
+    }
+
+    .pyramid2 {
+        max-width: 100%;
+    }
+
+
+    .planet-image {
+        position: relative;
+        max-width: 396px;
+        height: auto;
+    }
+
+    .planet-image img {
+        max-width: 100%;
+    }
+
+    .help-title {
+        font-size: 19px;
+    }
+
+    .help-points {
+        display: grid;
+        grid-template-rows: 1fr 1fr 1fr;
+
+    }
+
+    .help-points-info-text {
+        display: inline-block;
+    }
+
+    .footer__phone {
+        width: 145px;
+    }
+
+    .footer__logo {
+        margin-right: 20px;
+    }
+
+    .footer__address {
+        width: 135px;
+        font-size: 14px;
+    }
+
+    .pyramid-facts-info-text {
+        font-size: 15px;
+    }
+
+    .help {
+        padding: 20px 0 20px 0;
+    }
+
+    .help .container {
+        background-color: white;
+    }
+
+    .help-title {
+        font-size: 19px;
+        margin-bottom: 20px;
+    }
+
+    .footer {
+        padding: 0;
+    }
+
+    .footer .container {
+        background-color: #231F20;
+        padding: 20px 15px;
+    }
+
+    .footer-up {
+        margin-bottom: 20px;
+    }
+}
+
+
+/*321 - 425*/
+@media screen and (max-width: 425px) {
+    body {
+        padding: 0;
+    }
+
+    .container {
+        max-width: 425px;
+        margin: 0 auto;
+    }
+
+    .header__container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .header__phone span {
+        font-size: 13px;
+    }
+
+    .header__logo img {
+        width: 100px;
+    }
+
+    .header__image-first {
+        display: none;
+    }
+
+    .header__image-second {
+        right: 112px;
+        top: 12px;
+    }
+
+    .info {
+        padding: 30px 0;
+    }
+
+    .info-text {
+        font-size: 18px;
+    }
+
+    .info-title {
+        font-size: 17px;
+        margin-bottom: 20px;
+    }
+
+    .info-slider {
+        height: 450px;
+    }
+
+    .main {
+        padding: 25px 0;
+    }
+
+    .main__text-title h2 {
+        font-size: 25px;
+    }
+
+    .main__text-description {
+        margin-bottom: 20px;
+    }
+
+    .main-images {
+        grid-gap: 20px;
+    }
+
+    .main-small-images {
+        grid-template-rows: auto;
+    }
+
+    .biography__container {
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    .example {
+        padding: 25px 0;
+    }
+
+    .example-result {
+        grid-row-gap: 10px;
+        max-width: 395px;
+        margin-bottom: 30px;
+        grid-template-columns: 1fr;
+    }
+
+    .example-text {
+        max-width: 395px;
+        justify-content: center;
+    }
+
+    .example-text-title {
+        margin-bottom: 20px;
+    }
+
+    .example-text-title p {
+        font-size: 16px;
+    }
+
+    .example-main-image {
+        max-width: 395px;
+        height: auto;
+        position: relative;
+    }
+
+    .example-main-image img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .example-work-images {
+        grid-template-columns: auto;
+    }
+
+    .symbols {
+        padding: 25px 0;
+    }
+
+    .symbol {
+        margin-bottom: 25px;
+    }
+
+    .symbol-image {
+        position: relative;
+        max-width: 395px;
+    }
+
+    .symbol-info-title {
+        padding: 0;
+        margin-bottom: 10px;
+    }
+
+    .symbol-info-title h2 {
+        font-size: 28px;
+    }
+
+    .symbol-info-text-ring {
+        margin-top: 10px;
+    }
+
+    .symbol-info-form {
+        flex-direction: column;
+    }
+
+    .symbol-info-form-image {
+        position: relative;
+        width: 200px;
+        height: auto;
+    }
+
+    .symbol-info-form-image img {
+        width: 100%;
+    }
+
+    .explanation-text {
+        margin-right: 0;
+    }
+
+    .explanation-text-title-form {
+        padding: 0;
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .explanation-images {
+        grid-column-gap: 10px;
+        grid-row-gap: 20px;
+    }
+
+    .explanation-images .lines {
+        display: none;
+    }
+
+    .crystal {
+        padding-bottom: 25px;
+    }
+
+    .blue-ring {
+        grid-row-gap: 15px;
+    }
+
+    .blue-ring-image {
+        max-width: 395px;
+        position: relative;
+        margin: 0 auto;
+    }
+
+    .blue-ring-img {
+        max-width: 100%;
+    }
+
+    .blue-ring-image .lines2 {
+        display: none;
+    }
+
+    .pyramid-connection {
+        padding-bottom: 20px;
+    }
+
+    .pyramid-connection-images {
+        position: relative;
+        max-width: 395px;
+        height: auto;
+    }
+
+    .pyramid-img {
+        max-width: 100%;
+    }
+
+    .symbol-decor2 {
+        display: none;
+    }
+
+    .pyramid-facts {
+        grid-row-gap: 15px;
+    }
+
+    .pyramid-facts-images {
+        position: relative;
+        max-width: 395px;
+        height: auto;
+    }
+
+    .pyramid2 {
+        max-width: 100%;
+    }
+
+
+    .planet-image {
+        position: relative;
+        max-width: 395px;
+        height: auto;
+    }
+
+    .planet-image img {
+        max-width: 100%;
+    }
+
+    .help {
+        padding: 20px 0 20px 0;
+    }
+
+    .help .container {
+        background-color: white;
+    }
+
+    .help-title {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .footer {
+        padding: 0;
+    }
+
+    .footer__logo {
+        margin-right: 40px;
+    }
+
+    .footer .container {
+        background-color: #231F20;
+        padding: 20px 15px;
+    }
+
+    .footer-up {
+        margin-bottom: 20px;
+    }
+
+    .footer__phone span {
+        font-size: 13px;
+    }
+
+    .footer__address {
+        font-size: 13px;
+        width: 106px;
+        justify-content: flex-start;
+    }
+
+    .footer__address div {
+        margin: 0;
+    }
+}
+
+/*0 - 320*/
+@media screen and (max-width: 320px) {
+
+    body {
+        padding: 0;
+    }
+
+    .container {
+        max-width: 260px;
+    }
+
+    .header__container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .header__phone {
+        width: 110px;
+        margin-right: 0;
+    }
+
+    .header__phone span {
+        font-size: 10px;
+    }
+
+    .header__logo img {
+        width: 75px;
+    }
+
+    .header__action {
+        display: none;
+    }
+
+    .header__image-first {
+        display: none;
+        left: 60px;
+        top: 0;
+    }
+
+    .header__image-first img {
+    }
+
+    .header__image-second {
+        right: 85px;
+        top: -7px;
+        display: none;
+    }
+
+    .header__image-second img {
+    }
+
+    .info-title {
+        font-size: 14px;
+    }
+
+    .info-text {
+        font-size: 15px;
+    }
+
+    .info-slider {
+        height: 370px;
+    }
+
+    .main {
+        padding: 25px 0;
+    }
+
+    .main-text {
+        max-width: 260px;
+    }
+
+    .main__text-description {
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+
+    .main__text-info {
+        font-size: 13px;
+    }
+
+    .main-small-images {
+        grid-template-rows: 140px;
+    }
+
+    .biography__container {
+        padding: 25px 15px;
+    }
+
+    .main__text-title h2 {
+        font-size: 25px;
+    }
+
+    .biography-fact-text {
+        font-size: 13px;
+    }
+
+    .conclusion-left {
+        font-size: 13px;
+    }
+
+    .conclusion-right {
+        font-size: 13px;
+    }
+
+    .example {
+        padding: 10px 0;
+    }
+
+    .example-result {
+        grid-row-gap: 10px;
+        max-width: 290px;
+        margin-bottom: 30px;
+    }
+
+    .example-text {
+        max-width: 290px;
+        justify-content: center;
+    }
+
+    .example-text-title {
+        margin-bottom: 20px;
+    }
+
+    .example-text-title p {
+        font-size: 13px;
+    }
+
+    .example-text-description {
+        font-size: 13px;
+    }
+
+    .example-main-image {
+        max-width: 260px;
+        height: auto;
+        position: relative;
+    }
+
+    .example-main-image img {
+        max-width: 260px;
+        height: auto;
+    }
+
+    .example-work-images {
+        grid-template-columns: 260px;
+    }
+
+    .element1 {
+        position: relative;
+        max-width: 260px;
+        height: 260px;
+    }
+
+    .element1 img {
+        max-width: 260px;
+        height: auto;
+    }
+
+    .element3 {
+        position: relative;
+        max-width: 260px;
+        height: 260px;
+    }
+
+    .element3 img {
+        max-width: 260px;
+        height: auto;
+    }
+
+    .symbols {
+        padding: 10px 0;
+    }
+
+    .symbol {
+        margin-bottom: 25px;
+    }
+
+    .symbol-info {
+        max-width: 260px;
+    }
+
+    .symbol-image {
+        position: relative;
+        width: 260px;
+    }
+
+    .symbol-info-title {
+        padding: 0;
+        margin-bottom: 10px;
+    }
+
+    .symbol-info-title h2 {
+        font-size: 20px;
+    }
+
+    .symbol-info-text {
+        font-size: 13px;
+    }
+
+    .symbol-info-text-ring {
+        margin-top: 10px;
+    }
+
+    .symbol-info-form-image {
+        position: relative;
+        width: 200px;
+        height: auto;
+    }
+
+    .symbol-info-form {
+        flex-direction: column;
+    }
+
+    .symbol-info-form-text {
+        font-size: 13px;
+    }
+
+    .symbol-info-form-image img {
+        width: 100%;
+    }
+
+    .explanation-text-title-form {
+        padding: 0;
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .explanation-text-info {
+        font-size: 13px;
+    }
+
+    .explanation-images {
+        grid-column-gap: 10px;
+        grid-row-gap: 20px;
+    }
+
+    .explanation-images .lines {
+        display: none;
+    }
+
+    .crystal {
+        padding-bottom: 25px;
+    }
+
+    .power-info-title {
+        font-size: 18px;
+    }
+
+    .power-info-text {
+        font-size: 13px;
+    }
+
+    .blue-ring {
+        grid-row-gap: 15px;
+    }
+
+    .blue-ring-image {
+        width: 260px;
+        position: relative;
+        margin: 0 auto;
+    }
+
+    .blue-ring-info-title {
+        font-size: 17px;
+    }
+
+    .blue-ring-info-text {
+        font-size: 13px
+    }
+
+    .blue-ring-img {
+        width: 100%;
+    }
+
+    .blue-ring-image .lines2 {
+        display: none;
+    }
+
+    .pyramid {
+        padding-bottom: 25px;
+    }
+
+    .pyramid-connection {
+        padding-bottom: 20px;
+    }
+
+    .pyramid-connection-info-text {
+        font-size: 13px;
+    }
+
+    .pyramid-connection-images {
+        position: relative;
+        width: 260px;
+        height: auto;
+    }
+
+    .pyramid-img {
+        width: 100%;
+    }
+
+    .symbol-decor2 {
+        display: none;
+    }
+
+    .pyramid-facts {
+        grid-row-gap: 15px;
+    }
+
+    .pyramid-facts-info {
+        max-width: 260px;
+    }
+
+    .pyramid-facts-images {
+        position: relative;
+        width: 260px;
+        height: auto;
+    }
+
+    .pyramid-facts-info-text {
+        font-size: 13px;
+        max-width: 260px;
+    }
+
+    .pyramid-facts-info-title {
+        font-size: 13px;
+    }
+
+    .pyramid2 {
+        width: 100%;
+    }
+
+    .planet {
+        padding-bottom: 20px;
+    }
+
+    .planet-details {
+        grid-row-gap: 15px;
+    }
+
+    .planet-image {
+        position: relative;
+        width: 260px;
+        height: auto;
+    }
+
+    .planet-image img {
+        width: 100%;
+    }
+
+    .planet-info-text {
+        font-size: 13px;
+    }
+
+    .help {
+        padding: 20px 0 20px 0;
+    }
+
+    .help .container {
+        background-color: white;
+    }
+
+    .help-title {
+        font-size: 13px;
+        margin-bottom: 20px;
+    }
+
+    .footer {
+        padding: 0;
+    }
+
+    .footer .container {
+        background-color: #231F20;
+        padding: 20px 15px;
+    }
+
+    .footer__phone span {
+        font-size: 11px;
+    }
+
+    .footer__phone svg {
+        margin-right: 0;
+    }
+
+    .footer__address {
+        font-size: 10px;
+        width: 106px;
+    }
+
+    .footer-up {
+        margin-bottom: 20px;
+    }
+
+    .footer__address div {
+        margin: 0 auto;
+    }
+
+    .footer__logo {
+        margin-right: 25px;
+    }
+}
